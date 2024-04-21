@@ -1,0 +1,19 @@
+{
+  "math": [
+    {"question": "What is 1+1?", "options": ["1", "2", "3", "4"], "answer": "2"},
+    {"question": "What is 2+2?", "options": ["2", "4", "6", "8"], "answer": "4"},
+    {"question": "What is 3+3?", "options": ["3", "6", "9", "12"], "answer": "6"}
+  ],
+  "history": [
+    {"question": "Who discovered America?", "options": ["Christopher Columbus", "George Washington", "Abraham Lincoln", "Thomas Jefferson"], "answer": "Christopher Columbus"},
+    {"question": "When was the Declaration of Independence signed?", "options": ["1776", "1783", "1800", "1812"], "answer": "1776"}
+  ],
+  "science": [
+    {"question": "What is the chemical symbol for water?", "options": ["H2O", "CO2", "O2", "H2"], "answer": "H2O"},
+    {"question": "What is the speed of light?", "options": ["299792458 m/s", "300000000 m/s", "186000 mi/s", "670616629 mi/h"], "answer": "299792458 m/s"}
+  ],
+  "english": [
+    {"question": "What is the past tense of go?", "options": ["goed", "went", "goes", "going"], "answer": "went"},
+    {"question": "What is the plural of mouse?", "options": ["mouses", "mice", "meese", "mooses"], "answer": "mice"}
+  ]
+}
