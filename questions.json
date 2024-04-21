@@ -1,19 +1,59 @@
 {
-  "math": [
-    {"question": "What is 1+1?", "options": ["1", "2", "3", "4"], "answer": "2"},
-    {"question": "What is 2+2?", "options": ["2", "4", "6", "8"], "answer": "4"},
-    {"question": "What is 3+3?", "options": ["3", "6", "9", "12"], "answer": "6"}
-  ],
-  "history": [
-    {"question": "Who discovered America?", "options": ["Christopher Columbus", "George Washington", "Abraham Lincoln", "Thomas Jefferson"], "answer": "Christopher Columbus"},
-    {"question": "When was the Declaration of Independence signed?", "options": ["1776", "1783", "1800", "1812"], "answer": "1776"}
-  ],
-  "science": [
-    {"question": "What is the chemical symbol for water?", "options": ["H2O", "CO2", "O2", "H2"], "answer": "H2O"},
-    {"question": "What is the speed of light?", "options": ["299792458 m/s", "300000000 m/s", "186000 mi/s", "670616629 mi/h"], "answer": "299792458 m/s"}
-  ],
-  "english": [
-    {"question": "What is the past tense of go?", "options": ["goed", "went", "goes", "going"], "answer": "went"},
-    {"question": "What is the plural of mouse?", "options": ["mouses", "mice", "meese", "mooses"], "answer": "mice"}
-  ]
+  "Physics": {
+    "Test 1": [
+      {"question": "What is Newton's first law?", "options": ["Law of Inertia", "Law of Motion", "Law of Gravity", "Law of Relativity"], "answer": "Law of Inertia"},
+      {"question": "What is Newton's first law?", "options": ["Law of Inertia", "Law of Motion", "Law of Gravity", "Law of Relativity"], "answer": "Law of Inertia"},
+      {"question": "What is Newton's first law?", "options": ["Law of Inertia", "Law of Motion", "Law of Gravity", "Law of Relativity"], "answer": "Law of Inertia"}
+    ],
+    "Test 2": [
+      {"question": "What is the speed of light?", "options": ["299792458 m/s", "300000000 m/s", "186000 mi/s", "670616629 mi/h"], "answer": "299792458 m/s"},
+      {"question": "What is the speed of light?", "options": ["299792458 m/s", "300000000 m/s", "186000 mi/s", "670616629 mi/h"], "answer": "299792458 m/s"},
+      {"question": "What is the speed of light?", "options": ["299792458 m/s", "300000000 m/s", "186000 mi/s", "670616629 mi/h"], "answer": "299792458 m/s"}
+    ]
+  },
+  "Biology": {
+    "Test 1": [
+      {"question": "What is the smallest unit of life?", "options": ["Cell", "Atom", "Molecule", "Organism"], "answer": "Cell"},
+      {"question": "What is the smallest unit of life?", "options": ["Cell", "Atom", "Molecule", "Organism"], "answer": "Cell"},
+      {"question": "What is the smallest unit of life?", "options": ["Cell", "Atom", "Molecule", "Organism"], "answer": "Cell"}
+    ],
+    "Test 2": [
+      {"question": "What is the powerhouse of the cell?", "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic reticulum"], "answer": "Mitochondria"},
+      {"question": "What is the powerhouse of the cell?", "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic reticulum"], "answer": "Mitochondria"},
+      {"question": "What is the powerhouse of the cell?", "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic reticulum"], "answer": "Mitochondria"}
+    ]
+  },
+  "Geography": {
+    "Test 1": [
+      {"question": "What is the largest continent?", "options": ["Asia", "Africa", "North America", "Antarctica"], "answer": "Asia"},
+      {"question": "What is the largest continent?", "options": ["Asia", "Africa", "North America", "Antarctica"], "answer": "Asia"},
+      {"question": "What is the largest continent?", "options": ["Asia", "Africa", "North America", "Antarctica"], "answer": "Asia"}
+    ],
+    "Test 2": [
+      {"question": "What is the longest river?", "options": ["Nile", "Amazon", "Yangtze", "Mississippi"], "answer": "Nile"},
+      {"question": "What is the longest river?", "options": ["Nile", "Amazon", "Yangtze", "Mississippi"], "answer": "Nile"},
+      {"question": "What is the longest river?", "options": ["Nile", "Amazon", "Yangtze", "Mississippi"], "answer": "Nile"}
+    ]
+  },
+  "History": {
+    "Test 1": [
+      {"question": "Who discovered America?", "options": ["Christopher Columbus", "George Washington", "Abraham Lincoln", "Thomas Jefferson"], "answer": "Christopher Columbus"},
+      {"question": "Who discovered America?", "options": ["Christopher Columbus", "George Washington", "Abraham Lincoln", "Thomas Jefferson"], "answer": "Christopher Columbus"},
+      {"question": "Who discovered America?", "options": ["Christopher Columbus", "George Washington", "Abraham Lincoln", "Thomas Jefferson"], "answer": "Christopher Columbus"}
+    ],
+    "Test 2": [
+      {"question": "When was the Declaration of Independence signed?", "options": ["1776", "1783", "1800", "1812"], "answer": "1776"},
+      {"question": "When was the Declaration of Independence signed?7", "options": ["1776", "1783", "1800", "1812"], "answer": "1776"},
+      {"question": "When was the Declaration of Independence signed?", "options": ["1776", "1783", "1800", "1812"], "answer": "1776"},
+      {"question": "When was the Declaration of Independence signed?6", "options": ["1776", "1783", "1800", "1812"], "answer": "1776"},
+      {"question": "When was the Declaration of Independence signed?5", "options": ["1776", "1783", "1800", "1812"], "answer": "1776"}
+    ],
+    "Test 3": [
+      {"question": "When was the Declaration of Independence signed?", "options": ["1776", "1783", "1800", "1812"], "answer": "1776"},
+      {"question": "When was the Declaration of 89877979 signed?7", "options": ["1776", "1783", "1800", "1812"], "answer": "1776"},
+      {"question": "When was the Declaration of Independence signed?", "options": ["1776", "1783", "1800", "1812"], "answer": "1776"},
+      {"question": "When was the Declaration of Independence signed?6", "options": ["1776", "1783", "1800", "1812"], "answer": "1776"},
+      {"question": "When was the Declaration of Independence signed?5", "options": ["1776", "1783", "1800", "1812"], "answer": "1776"}
+    ]
+  }
 }
