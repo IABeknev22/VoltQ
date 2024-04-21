@@ -8,7 +8,7 @@ VoltQ comprises a dynamic team of educators and developers dedicated to driving 
 
 ## Key Members 👩‍💼👨‍💻
 
-- **Иван Алексеевич Бекнев (Scrum Trainer)**: Panayot ensures effective teamwork and agile methodologies, empowering the team to adapt and thrive in a dynamic environment.
+- **Иван Алексеевич Бекнев (Scrum Trainer)**: Ivan ensures effective teamwork and agile methodologies, empowering the team to adapt and thrive in a dynamic environment.
 
 - **Георги Стоянов Димитров (Developer)**: Georgi transforms concepts into functional solutions, bringing our technological endeavors to life with expertise in coding and problem-solving.
 
