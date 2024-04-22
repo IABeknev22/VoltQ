@@ -49,7 +49,3 @@ We welcome contributions from educators, developers, and anyone passionate about
 ## Join Us! 🌟
 
 Ready to join us on our educational journey? Fork this repository, dive into our projects, and let's collaborate to inspire the next generation of learners and innovators! Together, we can make a difference in education, both online and offline. 🚀🎓
-
-## License 📝
-
-This project is licensed under the [MIT License](LICENSE) - feel free to use, modify, and distribute the code for educational purposes. Let's empower learners around the world with the tools they need to succeed! 🌍✨
